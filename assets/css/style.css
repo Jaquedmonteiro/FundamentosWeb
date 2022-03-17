@@ -1,0 +1,86 @@
+body {
+    background-color: #dfdede;
+}
+#navbar li {
+    font-size: 20px;
+    background-color: transparent;
+    color: #c92b82;
+    padding: 40px;
+    margin-left: ;
+    display: inline;
+    font-family:'Courier New', Courier, monospace;   
+}
+
+#navbar li a {
+    text-decoration: none;
+    color: #c92b82;
+}
+
+#navbar li a:hover {
+    color: grey;
+}
+
+/* Início - Estilização do Banner*/
+.banner {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    text-align: center;
+}
+.subtituloBanner{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: -50px;
+} 
+/* Fim - Estilização do Banner*/
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.imagem{
+    margin-top: 80px;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 80px;
+}
+
+.texto {
+    text-align: justify;
+    font-size: 16px;
+    color: #414141;
+    font-family:'Courier New', Courier, monospace;
+    margin-right: 50px;
+}
+
+footer {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    color: #414141;
+    margin-block-end: -10px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.ml-50{
+    margin-left: 50px;
+}
+
+.formulario{
+    text-align: justify;
+    font-size: 16px;
+    color: #414141;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.button{
+    background-color: #dfdede;
+    border-radius: 50px;
+    font-family:'Courier New', Courier, monospace;
+}
