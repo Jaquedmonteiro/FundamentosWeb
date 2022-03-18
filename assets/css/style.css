@@ -40,13 +40,19 @@ body {
 }
 
 .imagem{
+    margin-top: -45px;
+}
+
+.tituloSobre{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
     margin-top: 80px;
 }
 
 .titulo{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    margin-top: 80px;
+    
 }
 
 .texto {
